@@ -1,0 +1,2 @@
+window.SUPABASE_URL = 'https://awdxbodrfhivzlkachko.supabase.co';
+window.SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImF3ZHhib2RyZmhpdnpsa2FjaGtvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODk0MzE3NzIsImV4cCI6MjEwNTAwNzc3Mn0.a3RyMzwhsglnK5dY8Am6QWHpZ1iGuDtXJcKTUIDOpuA';
